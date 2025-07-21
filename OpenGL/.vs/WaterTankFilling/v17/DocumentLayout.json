@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laur0\\source\\repos\\OpenGLTema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D019B0D2-EDFC-4E16-B766-2F35BDC37D70}|OpenGLTema1\\OpenGLTema1.vcxproj|C:\\Users\\laur0\\source\\repos\\OpenGLTema1\\OpenGLTema1\\Sursa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D019B0D2-EDFC-4E16-B766-2F35BDC37D70}|OpenGLTema1\\OpenGLTema1.vcxproj|solutionrelative:OpenGLTema1\\Sursa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sursa.cpp",
+              "DocumentMoniker": "C:\\Users\\laur0\\source\\repos\\OpenGLTema1\\OpenGLTema1\\Sursa.cpp",
+              "RelativeDocumentMoniker": "OpenGLTema1\\Sursa.cpp",
+              "ToolTip": "C:\\Users\\laur0\\source\\repos\\OpenGLTema1\\OpenGLTema1\\Sursa.cpp",
+              "RelativeToolTip": "OpenGLTema1\\Sursa.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T15:57:26.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
